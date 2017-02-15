@@ -100,3 +100,6 @@ class Vehicle
  car.boom!
 
  car.healthcheck
+
+ wtf
+ 
